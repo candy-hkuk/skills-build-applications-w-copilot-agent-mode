@@ -1,0 +1,5 @@
+Creating activity 1
+Error creating activities: Activity() got unexpected keyword arguments: 'date'
+Leaderboard created
+Workouts created
+Test data populated successfully for OctoFit.

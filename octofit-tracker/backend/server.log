@@ -1,0 +1,19 @@
+nohup: ignoring input
+Watching for file changes with StatReloader
+[21/May/2025 05:17:05] "GET /api/users/ HTTP/1.1" 200 612
+[21/May/2025 05:17:08] "GET /api/users/ HTTP/1.1" 200 612
+[21/May/2025 05:17:38] "GET /api/teams/ HTTP/1.1" 200 268
+[21/May/2025 05:17:41] "GET /api/teams/ HTTP/1.1" 200 268
+[21/May/2025 05:18:24] "GET /api/activities/ HTTP/1.1" 200 519
+[21/May/2025 05:18:26] "GET /api/activities/ HTTP/1.1" 200 519
+[21/May/2025 05:18:40] "GET /api/leaderboard/ HTTP/1.1" 200 332
+[21/May/2025 05:19:10] "GET /api/leaderboard/ HTTP/1.1" 200 332
+/workspaces/skills-build-applications-w-copilot-agent-mode/octofit-tracker/backend/octofit_tracker/urls.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+May 21, 2025 - 05:16:46
+Django version 4.1, using settings 'octofit_tracker.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Watching for file changes with StatReloader
