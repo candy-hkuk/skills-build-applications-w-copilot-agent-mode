@@ -17,3 +17,17 @@ Django version 4.1, using settings 'octofit_tracker.settings'
 Starting development server at http://0.0.0.0:8000/
 Quit the server with CONTROL-C.
 Watching for file changes with StatReloader
+[21/May/2025 05:33:30] "GET /api/activities/ HTTP/1.1" 200 519
+[21/May/2025 05:33:30] "GET /api/activities/ HTTP/1.1" 200 519
+[21/May/2025 05:33:36] "GET /api/leaderboard/ HTTP/1.1" 200 332
+[21/May/2025 05:33:36] "GET /api/leaderboard/ HTTP/1.1" 200 332
+[21/May/2025 05:33:38] "GET /api/teams/ HTTP/1.1" 200 268
+[21/May/2025 05:33:38] "GET /api/teams/ HTTP/1.1" 200 268
+[21/May/2025 05:33:40] "GET /api/users/ HTTP/1.1" 200 612
+[21/May/2025 05:33:41] "GET /api/users/ HTTP/1.1" 200 612
+[21/May/2025 05:33:42] "GET /api/workouts/ HTTP/1.1" 200 532
+[21/May/2025 05:33:42] "GET /api/workouts/ HTTP/1.1" 200 532
+[21/May/2025 05:33:47] "GET /api/activities/ HTTP/1.1" 200 519
+[21/May/2025 05:33:47] "GET /api/activities/ HTTP/1.1" 200 519
+[21/May/2025 05:33:57] "GET /api/leaderboard/ HTTP/1.1" 200 332
+[21/May/2025 05:33:57] "GET /api/leaderboard/ HTTP/1.1" 200 332
